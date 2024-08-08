@@ -1,0 +1,10 @@
+{
+  "type": "music",
+  "domain": "suno",
+  "name": "Suno AI",
+  "description": "Support for the YouTube Music streaming provider in Music Assistant.",
+  "codeowners": ["@shocklateboy92"],
+  "requirements": [],
+  "documentation": "https://music-assistant.io/music-providers/suno/",
+  "multi_instance": false
+}
